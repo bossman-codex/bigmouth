@@ -4,7 +4,7 @@
   "description": "talks too much (converts text to speech, lmao)",
   "main": "index.js",
   "scripts": {
-    "start": "node bo.js"
+    "start": "node bot.js"
   },
   "author": "Raymond Tukpe <rtukpe@gmail.com>",
   "license": "MIT",
